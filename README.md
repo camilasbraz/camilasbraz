@@ -11,14 +11,14 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/camilasbraz">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=camilasbraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilasbraz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camilasbraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilasbraz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 
  <div align="center">
   <a href="https://github.com/camilasbraz">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=camilasbraz&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=camilasbraz&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
     
 <div align="center" style="display: inline_block"><br>
