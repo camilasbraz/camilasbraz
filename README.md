@@ -44,4 +44,8 @@ You can click the Preview link to take a look at your changes.
  
 </div>
           
-          
+<div align="center"> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=camilasbraz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
