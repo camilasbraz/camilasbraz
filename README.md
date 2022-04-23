@@ -14,7 +14,14 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilasbraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilasbraz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+  
+
+ <div align="center">
+  <a href="https://github.com/camilasbraz">
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=camilasbraz&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+    
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg">
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
@@ -27,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
  ##    
 
-<div> 
+<div align="center"> 
 
   <a href="https://instagram.com/_camilabraz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:camilabraz03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
