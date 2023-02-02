@@ -8,7 +8,10 @@ camilasbraz/camilasbraz is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!---- 💞️ I’m looking to collaborate on ...--->
-
+<div align="center">
+  <a href="https://github.com/camilasbraz">
+  <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=camilasbraz&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
 <div align="center">
   <a href="https://github.com/camilasbraz">
 <!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camilasbraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
@@ -16,10 +19,7 @@ You can click the Preview link to take a look at your changes.
 </div>
   
 
- <div align="center">
-  <a href="https://github.com/camilasbraz">
-  <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=camilasbraz&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
+ 
     
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
