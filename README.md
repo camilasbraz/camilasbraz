@@ -8,6 +8,17 @@ camilasbraz/camilasbraz is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!---- 💞️ I’m looking to collaborate on ...--->
+
+<div align="center" style="display: inline_block">
+  
+![Snake animation](https://github.com/camilasbraz/camilasbraz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+
+![Metrics](https://metrics.lecoq.io/camilasbraz?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
 <div align="center">
   <a href="https://github.com/camilasbraz">
   <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=camilasbraz&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -40,7 +51,7 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto:camilabraz03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-sbraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/camilasbraz/camilasbraz/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
           
