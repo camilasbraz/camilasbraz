@@ -226,12 +226,11 @@
          }
        }
        </style>
-      <div class=fakeMenu>
+      <div class="fakeMenu">
         <div class="fakeButtons fakeClose"></div>
         <div class="fakeButtons fakeMinimize"></div>
         <div class="fakeButtons fakeZoom"></div>
       </div>
- <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
           
   
     
