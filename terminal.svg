@@ -116,7 +116,7 @@ body {
 }
     </style>
     
-  <main id="container">
+ <main id="container">
   <div id="terminal">
     <!-- Terminal Bar -->       
     <section id="terminal__bar">          
@@ -130,9 +130,9 @@ body {
     <!-- Terminal Body -->        
     <section id="terminal__body">          
       <div id="terminal__prompt">            
-        <span id="terminal__prompt--user"></span>            
-        <span id="terminal__prompt--location"></span>            
-        <span id="terminal__prompt--bling"></span>            
+        <span id="terminal__prompt--user">fobabs@ubuntu:</span>            
+        <span id="terminal__prompt--location">~</span>            
+        <span id="terminal__prompt--bling">$</span>            
         <span id="terminal__prompt--cursor"></span>          
       </div>        
     </section>      
