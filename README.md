@@ -51,6 +51,8 @@
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)--->
 
 ## Fun Projects
+[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/virtual-memory-simulator)
+
 
 
 ## Navigation: how my github is organised
@@ -65,19 +67,30 @@
   "sorted by": "name",
   "repositories": [
     {
-      "name": "repo1",
-      "description": "Description of repo1",
-      "url": "https://github.com/camilasbraz/repo1"
+      "name": "using-github",
+      "description": "How to configure and use github to create repos, adds, commits, pushs and pulls and commons troubleshootings",
+      "languages": ["Markdown", "Git"],
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/using-github"
     },
-    {
-      "name": "repo2",
-      "description": "Description of repo2",
-      "url": "https://github.com/camilasbraz/repo2"
+    
+     {
+      "name": "virtual-envs-ands-notebooks",
+      "description": "How to configure and use Python Virtual Environments on Jupyter Notebooks",
+      "languages": ["Markdown", "Python"],
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/virtual-envs-ands-notebooks"
     },
+    
     {
-      "name": "repo3",
-      "description": "Description of repo3",
-      "url": "https://github.com/camilasbraz/repo3"
+      "name": "virtual-memory-simulator",
+      "description": "Virtual memory simulator written in C",
+      "languages": ["C", "shell", "R", "Makefile"],
+      "category": "fun",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/virtual-memory-simulator"
     }
   ]
 }
