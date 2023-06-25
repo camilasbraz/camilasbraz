@@ -9,6 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <!---- 💞️ I’m looking to collaborate on ...--->
 
+
+<h1>Hello, World!  I'm Camila</h1>
+  
 <div align="center" style="display: inline_block">
   
 ![Snake animation](https://github.com/camilasbraz/camilasbraz/blob/output/github-contribution-grid-snake.svg)
@@ -22,13 +25,9 @@ You can click the Preview link to take a look at your changes.
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
 
 <a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=camilasbraz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> 
 
@@ -63,6 +62,23 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
 [![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+
+<details>
+  <summary>Navigation: how my github is organised</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
