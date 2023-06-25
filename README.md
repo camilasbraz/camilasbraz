@@ -11,6 +11,14 @@
   <a href="https://github.com/camilasbraz/camilasbraz/blame/main/terminal.svg">
     <img src="terminal.svg" style="width: 600px; height: 400px;" alt="Svg source">
   </a>
+
+<div align="center">
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilasbraz&layout=compact&card_width=275&theme=github_dark&langs_count=8&hide=langs,separadas,por,virugula4&exclude_repo=separar-reps,por-virgula" alt="camilasbraz's Top Languages" width="295" margin="200px" "/>
+
+  <img alling = "right" src="http://github-readme-streak-stats.herokuapp.com?user=camilasbraz&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/>
+ 
+</div>
+
 </div>
 
 </div>
@@ -41,13 +49,13 @@
 
 
 ## Full Stack Projects
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+<!---- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
 [![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
 [![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)--->
 
 ## Fun Projects
 
@@ -66,11 +74,22 @@
 
 ```js
 function logSomething(something) {
+  JSONNNNNNN
   console.log("Something", something);
 }
 ```
 
 </details>
+
+![Metrics](https://metrics.lecoq.io/camilasbraz?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="./metrics/heavy.svg">
+  </a>
+</p>
+
 
 
 <!---- 👋 Hi, I’m @camilasbraz
@@ -82,6 +101,12 @@ https://zzetao.github.io/awesome-github-profile/
 
 camilasbraz/camilasbraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=camilasbraz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 --->
 <!---- 💞️ I’m looking to collaborate on ...---><div align="center">
 
