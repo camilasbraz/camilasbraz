@@ -2,142 +2,80 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
- @import url('https://fonts.googleapis.com/css?family=Ubuntu');
-@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono'); 
-body {  
-  background: linear-gradient(45deg, #57003f 0%,#f57453 100%); 
-  font-family: Ubuntu;
-} 
-#container {  
-  display: flex;  
-  justify-content: center;  
-  align-items: center;  
-  height: 100vh;
-} 
-#terminal {  
-  width: 70vw;  
-  height: 65vh;  
-  box-shadow: 2px 4px 10px rgba(0,0,0,0.5);
-} 
-#terminal__bar {  
-  display: flex;  
-  width: 100%;  
-  height: 30px;  
-  align-items: center;  
-  padding: 0 8px;  
-  box-sizing: border-box;  
-  border-top-left-radius: 5px;  
-  border-top-right-radius: 5px;  
-  background: linear-gradient(#504b45 0%,#3c3b37 100%);
-} 
-#bar__buttons {  
-  display: flex;  
-  align-items: center;
-} 
-.bar__button {  
-  display: flex;  
-  justify-content: center;  
-  align-items: center;  
-  padding: 0;  
-  margin-right: 5px;  
-  font-size: 8px;  
-  height: 12px;  
-  width: 12px;  
-  box-sizing: border-box;  
-  border: none;  
-  border-radius: 100%;  
-  background: linear-gradient(#7d7871 0%, #595953 100%);  
-  text-shadow: 0px 1px 0px rgba(255,255,255,0.2);  
-  box-shadow: 0px 0px 1px 0px #41403A, 0px 1px 1px 0px #474642;
-}
-.bar__button:hover {  
-  cursor: pointer;
-}
-.bar__button:focus {  
-  outline: none;
-}
-#bar__button--exit {  
-  background: linear-gradient(#f37458 0%, #de4c12 100%);    
-  background-clip: padding-box;
-} 
-#bar__user {   
-  color: #d5d0ce;  
-  margin-left: 6px;  
-  font-size: 14px;  
-  line-height: 15px;
-} 
-#terminal__body {  
-  background: rgba(56, 4, 40, 0.9);  
-  font-family: 'Ubuntu Mono';  
-  height: calc(100% - 30px);  
-  padding-top: 2px;  
-  margin-top: -1px;
-} 
-#terminal__prompt {  
-  display: flex;
-}
-#terminal__prompt--user {  
-  color: #7eda28;
-}
-#terminal__prompt--location { 
-  color: #4878c0;
-}
-#terminal__prompt--bling {  
-  color: #dddddd;
-}
-#terminal__prompt--cursor {  
-  display: block;  
-  height: 17px;  
-  width: 8px;  
-  margin-left: 9px;  
-  animation: blink 1200ms linear infinite;
-} 
-@keyframes blink {  
-  0% {    
-    background: #ffffff;  
-  }  
-  49% {    
-    background: #ffffff;  
-  }  
-  60% {    
-    background: transparent;  
-  }  
-  99% {    
-    background: transparent;  
-  }  100% {    
-    background: #ffffff;  
-  }
-} 
-@media (max-width: 600px) {  
-  #terminal {    
-    max-height: 90%;    
-    width: 90%;  
-  }
-}
+ @import url('https://fonts.googleapis.com/css?family=Fira+Sans:300');
+
+html, body
+  width 100%
+  height 100%
+  overflow hidden
+  background rgba(150,100,225,1)
+  font-family 'Fira Sans', sans-serif
+  font-size 12px
+*, *:before, *:after
+  box-sizing border-box
+.terminal, .terminal:before, .terminal:after, p:after
+  position absolute
+.terminal
+  height 80vh
+  width 80vw
+  margin 10vh 10vw
+  padding 26px 4px 4px
+  border-radius 5px
+  background linear-gradient( 
+    #f6f6f6, 
+    #d3d3d3 20px,
+    #7e7e7e 20px,
+    #7e7e7e 21px,
+    #393456 21px)
+  box-shadow 0 0 0 1px rgba(0,0,0,.25)
+  transition all .5s ease
+  &:before
+    content " "
+    width 10px
+    height 10px
+    margin -20px 0 0 5px
+    border-radius 5px
+    background #fc625d
+    box-shadow:
+      0 0 0 1px #de413e,
+      15px 0 #fec041,
+      15px 0 0 1px #dda035,
+      30px 0 #35cc4b,
+      30px 0 0 1px #28aa36
+  &:after
+    width 100%
+    content "Pure CSS Terminal"
+    top 0
+    text-align center
+    color #4c4c4c
+    line-height 20px
+p
+  color #fff
+  &:before
+    content "$"
+    margin-right 8px
+    opacity .5
+    line-height 18px
+  &:after
+    animation: blink 1s linear 1s infinite
+    content " "
+    width 8px
+    height 18px
+    margin-left 1px
+    background #fec041
+@keyframes blink
+  0%
+    background rgba(#fec041,0)
+  50%
+    background rgba(#fec041,0)
+  51%
+    background #fec041
+  100%
+    background #fec041
     </style>
     
- <main id="container">
-  <div id="terminal">
-    <!-- Terminal Bar -->       
-    <section id="terminal__bar">          
-      <div id="bar__buttons">            
-        <button class="bar__button" id="bar__button--exit">&#10005;</button>            
-        <button class="bar__button">&#9472;</button>                
-        <button class="bar__button">&#9723;</button>          
-      </div>          
-      <p id="bar__user">fobabs@ubuntu: ~</p>        
-    </section>        
-    <!-- Terminal Body -->        
-    <section id="terminal__body">          
-      <div id="terminal__prompt">            
-        <span id="terminal__prompt--user">fobabs@ubuntu:</span>            
-        <span id="terminal__prompt--location">~</span>            
-        <span id="terminal__prompt--bling">$</span>            
-        <span id="terminal__prompt--cursor"></span>          
-      </div>        
-    </section>      
-  </div>    
-</main>
+.terminal
+  p Hello World!
     
     </div>
   </foreignObject>
