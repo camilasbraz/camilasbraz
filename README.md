@@ -11,12 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1>Hello, World!  I'm Camila</h1>
-  
+
+![Snake animation](https://github.com/camilasbraz/camilasbraz/blob/output/github-contribution-grid-snake.svg)
 
 
 <div style="width: 100%;">
   <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-    <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="terminal.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
