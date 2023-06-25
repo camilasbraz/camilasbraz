@@ -1,18 +1,4 @@
-<!---- 👋 Hi, I’m @camilasbraz
-- 👀 I’m interested in data science, new programing languages, coding
-- 🌱 I’m currently learning javascript, julia and python
-- 📫 How to reach me: instagram @_camilabraz | email: camilabraz03@gmail.com
-
-
-camilasbraz/camilasbraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---- 💞️ I’m looking to collaborate on ...---><div align="center">
-
-
-
-
-<h1>Hello, World!  I'm Camila <a align="right" href = "mailto:camilabraz03@gmail.com"><img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a align="right" href = "https://www.linkedin.com/in/camila-sbraz/"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=camilasbraz&style=flat-square"></h1>
+<h1> Hello, World!  I'm Camila <a align="right" href = "mailto:camilabraz03@gmail.com"><img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a align="right" href = "https://www.linkedin.com/in/camila-sbraz/"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=camilasbraz&style=flat-square"></h1>
 
 
 <div align="center" style="display: inline_block">
@@ -85,6 +71,18 @@ function logSomething(something) {
 ```
 
 </details>
+
+
+<!---- 👋 Hi, I’m @camilasbraz
+- 👀 I’m interested in data science, new programing languages, coding
+- 🌱 I’m currently learning javascript, julia and python
+- 📫 How to reach me: instagram @_camilabraz | email: camilabraz03@gmail.com
+
+
+camilasbraz/camilasbraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!---- 💞️ I’m looking to collaborate on ...---><div align="center">
 
 
 
