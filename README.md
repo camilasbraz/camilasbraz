@@ -90,7 +90,7 @@ function logSomething(something) {
   </a>
 </p>
 
-
+![Achievment metrics](https://github.com/camilasbraz/camilasbraz/blob/output/github-contribution-grid-snake.svg)
 
 <!---- 👋 Hi, I’m @camilasbraz
 https://zzetao.github.io/awesome-github-profile/
