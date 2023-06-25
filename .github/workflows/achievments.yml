@@ -20,7 +20,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         id: snake-gif
         with:
-          filename: dist/metrics.plugin.achievements.compact.svg
+          svg_out_path: dist/metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
