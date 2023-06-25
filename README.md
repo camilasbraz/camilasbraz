@@ -15,9 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
+    <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
 </div>
-
 
 
 
