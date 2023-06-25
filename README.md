@@ -76,14 +76,7 @@ function logSomething(something) {
 </details>
 
 
-
-<p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="./metrics/heavy.svg">
-  </a>
-</p>
-
-![Achievment metrics](https://github.com/camilasbraz/camilasbraz/blob/output/github-contribution-grid-snake.svg)
+![Achievment metrics](https://github.com/camilasbraz/camilasbraz/blob/output/metrics.plugin.achievements.compact.svg)
 
 <!---- 👋 Hi, I’m @camilasbraz
 https://zzetao.github.io/awesome-github-profile/
