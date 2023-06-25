@@ -26,6 +26,18 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
+          
+      - uses: lowlighter/metrics@latest
+        id: achievments-gif
+        with:
+          gif_out_path: dist/metrics.plugin.achievements.compact.gif
+          svg_out_path: dist/metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
@@ -34,12 +46,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: lowlighter/metrics@latest
-        with:
-          svg_out_path: dist/metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+      
