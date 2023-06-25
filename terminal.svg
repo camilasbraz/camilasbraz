@@ -2,6 +2,101 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        @-webkit-keyframes blink {
+          0% {
+            opacity: 0;
+          }
+          40% {
+            opacity: 0;
+          }
+          50% {
+            opacity: 1;
+          }
+          90% {
+            opacity: 1;
+          }
+          100% {
+            opacity: 0;
+          }
+        }
+        
+        @-moz-keyframes blink {
+          0% {
+            opacity: 0;
+          }
+          40% {
+            opacity: 0;
+          }
+          50% {
+            opacity: 1;
+          }
+          90% {
+            opacity: 1;
+          }
+          100% {
+            opacity: 0;
+          }
+        }
+        
+        @-o-keyframes blink {
+          0% {
+            opacity: 0;
+          }
+          40% {
+            opacity: 0;
+          }
+          50% {
+            opacity: 1;
+          }
+          90% {
+            opacity: 1;
+          }
+          100% {
+            opacity: 0;
+          }
+        }
+        
+        @keyframes blink {
+          0% {
+            opacity: 0;
+          }
+          40% {
+            opacity: 0;
+          }
+          50% {
+            opacity: 1;
+          }
+          90% {
+            opacity: 1;
+          }
+          100% {
+            opacity: 0;
+          }
+        }
+        
+        @-webkit-keyframes type {
+          to {
+            width: 17em;
+          }
+        }
+        
+        @-moz-keyframes type {
+          to {
+            width: 17em;
+          }
+        }
+        
+        @-o-keyframes type {
+          to {
+            width: 17em;
+          }
+        }
+        
+        @keyframes type {
+          to {
+            width: 17em;
+          }
+        }
         body {
           background-color: #272727;
           padding: 10px;
@@ -129,101 +224,6 @@
           animation: blink 1s 8.5s infinite;
         }
         
-        @-webkit-keyframes blink {
-          0% {
-            opacity: 0;
-          }
-          40% {
-            opacity: 0;
-          }
-          50% {
-            opacity: 1;
-          }
-          90% {
-            opacity: 1;
-          }
-          100% {
-            opacity: 0;
-          }
-        }
-        
-        @-moz-keyframes blink {
-          0% {
-            opacity: 0;
-          }
-          40% {
-            opacity: 0;
-          }
-          50% {
-            opacity: 1;
-          }
-          90% {
-            opacity: 1;
-          }
-          100% {
-            opacity: 0;
-          }
-        }
-        
-        @-o-keyframes blink {
-          0% {
-            opacity: 0;
-          }
-          40% {
-            opacity: 0;
-          }
-          50% {
-            opacity: 1;
-          }
-          90% {
-            opacity: 1;
-          }
-          100% {
-            opacity: 0;
-          }
-        }
-        
-        @keyframes blink {
-          0% {
-            opacity: 0;
-          }
-          40% {
-            opacity: 0;
-          }
-          50% {
-            opacity: 1;
-          }
-          90% {
-            opacity: 1;
-          }
-          100% {
-            opacity: 0;
-          }
-        }
-        
-        @-webkit-keyframes type {
-          to {
-            width: 17em;
-          }
-        }
-        
-        @-moz-keyframes type {
-          to {
-            width: 17em;
-          }
-        }
-        
-        @-o-keyframes type {
-          to {
-            width: 17em;
-          }
-        }
-        
-        @keyframes type {
-          to {
-            width: 17em;
-          }
-        }
     </style>
     
       <div class=fakeMenu>
