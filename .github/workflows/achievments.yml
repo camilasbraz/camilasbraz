@@ -18,6 +18,7 @@ jobs:
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: lowlighter/metrics@latest
+        id: achievments
         with:
           svg_out_path: dist/metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
