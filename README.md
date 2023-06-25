@@ -62,6 +62,7 @@
 ```json
 {
   "username": "camilasbraz",
+  "sorted by": "name",
   "repositories": [
     {
       "name": "repo1",
