@@ -36,24 +36,26 @@
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/> </a>
 
-
-
 ## Data Projects
-
+[![](https://img.shields.io/badge/-📝%20spotify%20wrapped%20generator-000)](https://github.com/camilasbraz/spotify-wrapped-generator)
+[![](https://img.shields.io/badge/-📝%20the%20hunger%20games%20network-000)](https://github.com/camilasbraz/the-hunger-games-network)
+[![](https://img.shields.io/badge/-📝%20channel%20analysis%20with%20youtube%20api-000)](https://github.com/camilasbraz/channel-analysis-with-youtube-api)
+[![](https://img.shields.io/badge/-📝%20analise%20bd%20starwars-000)](https://github.com/camilasbraz/analise-bd-starwars)
+[![](https://img.shields.io/badge/-📝%20dash%20python%20and%20big%20query-000)](https://github.com/camilasbraz/dash-python-and-big-query)
+[![](https://img.shields.io/badge/-📝%20the%20witcher%20network-000)](https://github.com/camilasbraz/the-witcher-network)
+[![](https://img.shields.io/badge/-📝%20analise%20bd%20producao%20poco-000)](https://github.com/camilasbraz/analise-bd-producao-poco)
+[![](https://img.shields.io/badge/-📝%20causal%20inference%20dag-000)](https://github.com/camilasbraz/causal-inference-dag)
 
 ## Full Stack Projects
-<!---- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)--->
+[![](https://img.shields.io/badge/-🦠%20Caronas%20UFMG-000)](https://github.com/camilasbraz/caronas-ufmg)
+[![](https://img.shields.io/badge/-🦠%20Caronas%20UFMG-000)](https://github.com/camilasbraz/camilasbraz.github.io)
 
 ## Fun Projects
 [![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/virtual-memory-simulator)
-
-
+[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/greeting-robot-arduino)
+[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/python-twitter-bot-retweet-like)
+[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/python-automatic-bulk-emails)
+[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/adopted-dog-arduino)
 
 ## Navigation: how my github is organised
 <details>
@@ -68,7 +70,7 @@
   "repositories": [
     {
       "name": "using-github",
-      "description": "How to configure and use github to create repos, adds, commits, pushs and pulls and commons troubleshootings",
+      "description": "How to configure and use github to create repos, adds, commits, pushs and pulls",
       "languages": ["Markdown", "Git"],
       "category": "tutorial",
       "status": "finished",
