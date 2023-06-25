@@ -86,7 +86,7 @@
 
 ## Achievments
 
-![Achievment metrics](https://github.com/camilasbraz/camilasbraz/blob/output/metrics.plugin.achievements.compact.svg)
+![Achievment metrics](https://github.com/camilasbraz/camilasbraz/blob/main/github-metrics.svg)
 
 <!---- 👋 Hi, I’m @camilasbraz
 https://zzetao.github.io/awesome-github-profile/
