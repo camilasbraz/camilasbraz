@@ -3,10 +3,8 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
     
- <div class=fakeMenu>
-        <div class="fakeButtons fakeClose"></div>
-        <div class="fakeButtons fakeMinimize"></div>
-        <div class="fakeButtons fakeZoom"></div>
+ <div >
+        <p><Oip>
       </div>
           
   
