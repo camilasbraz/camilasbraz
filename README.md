@@ -15,6 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+<div align="center">
+    <img src="terminal.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
