@@ -84,6 +84,7 @@
 
 </details>
 
+## Achievments
 
 ![Achievment metrics](https://github.com/camilasbraz/camilasbraz/blob/output/metrics.plugin.achievements.compact.svg)
 
