@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <div style="width: 100%;">
   <a href="https://github.com/camilasbraz/camilasbraz/blame/main/terminal.svg">
-    <img src="terminal.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="terminal.svg" style="width: 100%;" alt="Svg source">
   </a>
 </div>
 
