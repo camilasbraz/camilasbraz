@@ -74,6 +74,7 @@ function logSomething(something) {
 
 
 <!---- 👋 Hi, I’m @camilasbraz
+https://zzetao.github.io/awesome-github-profile/
 - 👀 I’m interested in data science, new programing languages, coding
 - 🌱 I’m currently learning javascript, julia and python
 - 📫 How to reach me: instagram @_camilabraz | email: camilabraz03@gmail.com
