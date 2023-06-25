@@ -7,9 +7,12 @@
 camilasbraz/camilasbraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!---- 💞️ I’m looking to collaborate on ...--->
+<!---- 💞️ I’m looking to collaborate on ...---><div align="center">
 
-<h1>Hello, World!  I'm Camila <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=camilasbraz&style=flat-square"></h1>
+
+
+
+<h1>Hello, World!  I'm Camila <a align="right" href = "mailto:camilabraz03@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a align="right" href = "https://www.linkedin.com/in/camila-sbraz/"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=camilasbraz&style=flat-square"></h1>
 
 
 <div align="center" style="display: inline_block">
