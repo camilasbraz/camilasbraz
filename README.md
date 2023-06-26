@@ -40,12 +40,12 @@
 [![](https://img.shields.io/badge/-🎵%20Spotify%20Wrapped%20Generator-000)](https://github.com/camilasbraz/spotify-wrapped-generator)
 [![](https://img.shields.io/badge/-🏹%20The%20Hunger%20Games%20Network-000)](https://github.com/camilasbraz/the-hunger-games-network)
 [![](https://img.shields.io/badge/-📹%20Channel%20Analysis%20With%20Youtube%20API-000)](https://github.com/camilasbraz/channel-analysis-with-youtube-api)
-[![](https://img.shields.io/badge/-🚀%20Analise%20BD%20Starwars-000)](https://github.com/camilasbraz/analise-bd-starwars)
-[![](https://img.shields.io/badge/-🪣%20Analise%20BD%20Poços%20BR-000)](https://github.com/camilasbraz/analise-bd-producao-poco)
+[![](https://img.shields.io/badge/-🚀%20Starwars%20DB%20Analysis-000)](https://github.com/camilasbraz/analise-bd-starwars)
+[![](https://img.shields.io/badge/-🪣%20Wells%20DB%20Analysis-000)](https://github.com/camilasbraz/analise-bd-producao-poco)
 
 ## Full Stack Projects
-[![](https://img.shields.io/badge/-🏎️%20Caronas%20UFMG-000)](https://github.com/camilasbraz/caronas-ufmg)
-[![](https://img.shields.io/badge/-👾%20Github.io%20UFMG-000)](camilasbraz.github.io)
+[![](https://img.shields.io/badge/-🚗%20Caronas%20UFMG-000)](https://github.com/camilasbraz/caronas-ufmg)
+[![](https://img.shields.io/badge/-👾%20Github.io-000)](camilasbraz.github.io)
 
 ## Fun Projects
 [![Virtual memory simulator](https://img.shields.io/badge/-🧠%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/virtual-memory-simulator)
