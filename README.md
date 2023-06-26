@@ -37,25 +37,21 @@
 <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/> </a>
 
 ## Data Projects
-[![](https://img.shields.io/badge/-📝%20spotify%20wrapped%20generator-000)](https://github.com/camilasbraz/spotify-wrapped-generator)
-[![](https://img.shields.io/badge/-📝%20the%20hunger%20games%20network-000)](https://github.com/camilasbraz/the-hunger-games-network)
-[![](https://img.shields.io/badge/-📝%20channel%20analysis%20with%20youtube%20api-000)](https://github.com/camilasbraz/channel-analysis-with-youtube-api)
-[![](https://img.shields.io/badge/-📝%20analise%20bd%20starwars-000)](https://github.com/camilasbraz/analise-bd-starwars)
-[![](https://img.shields.io/badge/-📝%20dash%20python%20and%20big%20query-000)](https://github.com/camilasbraz/dash-python-and-big-query)
-[![](https://img.shields.io/badge/-📝%20the%20witcher%20network-000)](https://github.com/camilasbraz/the-witcher-network)
-[![](https://img.shields.io/badge/-📝%20analise%20bd%20producao%20poco-000)](https://github.com/camilasbraz/analise-bd-producao-poco)
-[![](https://img.shields.io/badge/-📝%20causal%20inference%20dag-000)](https://github.com/camilasbraz/causal-inference-dag)
+[![](https://img.shields.io/badge/-🎵%20Spotify%20Wrapped%20Generator-000)](https://github.com/camilasbraz/spotify-wrapped-generator)
+[![](https://img.shields.io/badge/-🏹%20The%20Hunger%20Games%20Network-000)](https://github.com/camilasbraz/the-hunger-games-network)
+[![](https://img.shields.io/badge/-📹%20Channel%20Analysis%20With%20Youtube%20API-000)](https://github.com/camilasbraz/channel-analysis-with-youtube-api)
+[![](https://img.shields.io/badge/-🚀%20Analise%20BD%20Starwars-000)](https://github.com/camilasbraz/analise-bd-starwars)
+[![](https://img.shields.io/badge/-🪣%20Analise%20BD%20Poços%20BR-000)](https://github.com/camilasbraz/analise-bd-producao-poco)
 
 ## Full Stack Projects
-[![](https://img.shields.io/badge/-🦠%20Caronas%20UFMG-000)](https://github.com/camilasbraz/caronas-ufmg)
-[![](https://img.shields.io/badge/-🦠%20Caronas%20UFMG-000)](https://github.com/camilasbraz/camilasbraz.github.io)
+[![](https://img.shields.io/badge/-🏎️%20Caronas%20UFMG-000)](https://github.com/camilasbraz/caronas-ufmg)
+[![](https://img.shields.io/badge/-👾%20Github.io%20UFMG-000)](camilasbraz.github.io)
 
 ## Fun Projects
-[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/virtual-memory-simulator)
-[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/greeting-robot-arduino)
-[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/python-twitter-bot-retweet-like)
-[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/python-automatic-bulk-emails)
-[![Virtual memory simulator](https://img.shields.io/badge/-🔊%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/adopted-dog-arduino)
+[![Virtual memory simulator](https://img.shields.io/badge/-🧠%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/virtual-memory-simulator)
+[![Virtual memory simulator](https://img.shields.io/badge/-🤖%20Greeting%20Robot%20Arduino-000)](https://github.com/camilasbraz/greeting-robot-arduino)
+[![Virtual memory simulator](https://img.shields.io/badge/-🐦%20Twitter%20BOT-000)](https://github.com/camilasbraz/python-twitter-bot-retweet-like)
+[![Virtual memory simulator](https://img.shields.io/badge/-🐕%20Dog%20Toy%20Arduino-000)](https://github.com/camilasbraz/adopted-dog-arduino)
 
 ## Navigation: how my github is organised
 <details>
