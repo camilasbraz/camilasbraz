@@ -60,10 +60,37 @@
 ### My repos
 
 ```json
-  {
+ {
   "username": "camilasbraz",
   "sorted by": "name",
   "repositories": [
+    {
+      "name": "spotify-playlist-generator",
+      "description": "Using Sportify API to create playlist based on an artist inputed by the user",
+      "languages": "Python",
+      "category": "data",
+      "status": "tbd",
+      "url": "https://github.com/camilasbraz/spotify-playlist-generator"
+    },
+    
+     {
+      "name": "spotify-wrapped-generator",
+      "description": "Using Sportify API to simulate wrapped playlists with 3 time ranges",
+      "languages": "Python",
+      "category": "data",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/spotify-wrapped-generator"
+    },
+    
+    {
+      "name": "Stanford-Statistical-Learning",
+      "description": "Codes and notes regarding the Statistical Learning course from Stanford",
+      "languages": ["Markdown", "pdf"],
+      "category": "courses",
+      "status": "tbd",
+      "url": "https://github.com/camilasbraz/Stanford-Statistical-Learning"
+    },
+
     {
       "name": "testing-imputing-algorithms-R",
       "description": "Testing algorithms methods to imput data in R",
