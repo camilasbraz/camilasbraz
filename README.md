@@ -60,10 +60,37 @@
 ### My repos
 
 ```json
-{
+  {
   "username": "camilasbraz",
   "sorted by": "name",
   "repositories": [
+    {
+      "name": "testing-imputing-algorithms-R",
+      "description": "Testing algorithms methods to imput data in R",
+      "languages": "R",
+      "category": "data",
+      "status": "tbd",
+      "url": "https://github.com/camilasbraz/testing-imputing-algorithms-R"
+    },
+    
+    {
+      "name": "the-hunger-games-network",
+      "description": "Web scrap and NLP to create a network of The Hunger Games books",
+      "languages": "Python",
+      "category": "data",
+      "status": "tbd",
+      "url": "https://github.com/camilasbraz/the-hunger-games-network"
+    },
+    
+    {
+      "name": "the-witcher-network",
+      "description": "Web scrap and NLP to create a network of The Witcher books",
+      "languages": "Python",
+      "category": "data",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/the-witcher-network"
+    },
+
     {
       "name": "using-github",
       "description": "How to configure and use github to create repos, adds, commits, pushs and pulls",
