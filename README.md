@@ -73,7 +73,7 @@
       "url": "https://github.com/camilasbraz/spotify-playlist-generator"
     },
     
-     {
+    {
       "name": "spotify-wrapped-generator",
       "description": "Using Sportify API to simulate wrapped playlists with 3 time ranges",
       "languages": "Python",
@@ -127,7 +127,7 @@
       "url": "https://github.com/camilasbraz/using-github"
     },
     
-     {
+    {
       "name": "virtual-envs-ands-notebooks",
       "description": "How to configure and use Python Virtual Environments on Jupyter Notebooks",
       "languages": ["Markdown", "Python"],
