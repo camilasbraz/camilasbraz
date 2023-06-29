@@ -60,10 +60,63 @@
 ### My repos
 
 ```json
- {
+{
   "username": "camilasbraz",
   "sorted by": "name",
   "repositories": [
+    {
+      "name": "python-twitter-bot-quote",
+      "description": "Twitter bot that continuously tweets a random picture with a random quote",
+      "languages": "Python",
+      "category": "data",
+      "status": "tbd",
+      "url": "https://github.com/camilasbraz/python-twitter-bot-quote"
+    },
+    
+    {
+      "name": "python-twitter-bot-retweet-like",
+      "description": "Twitter bot that likes and retweets all tweets that contain an specif word",
+      "languages": "Python",
+      "category": "data",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/python-twitter-bot-retweet-like"
+    },
+    
+    {
+      "name": "python-twitter-smith-number-bot",
+      "description": "Twitter bot that continuously tweets the next smith number starting on zero",
+      "languages": "Python",
+      "category": "data",
+      "status": "tbd",
+      "url": "https://github.com/camilasbraz/python-twitter-smith-number-bot"
+    },
+
+    {
+      "name": "replit-and-uptimerobot",
+      "description": "How to use repl.it and UpTimeRobot to run Python Scripts on a schedule in the cloud 24/7 for free",
+      "languages": "Python",
+      "category": "tutorial",
+      "status": "done",
+      "url": "https://github.com/camilasbraz/replit-and-uptimerobot"
+    },
+    
+    {
+      "name": "risk-factor",
+      "description": "Studies regarding risk factor analysis",
+      "languages": "Markdown",
+      "category": "data",
+      "status": "tbd",
+      "url": "https://github.com/camilasbraz/risk-factor"
+    },
+    
+    {
+      "name": "roteiroRefactoringJS",
+      "description": "practical refactoring exercises",
+      "languages": "HavaScript",
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/roteiroRefactoringJS"
+    },
     {
       "name": "spotify-playlist-generator",
       "description": "Using Sportify API to create playlist based on an artist inputed by the user",
