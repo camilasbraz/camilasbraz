@@ -65,6 +65,60 @@
   "sorted by": "name",
   "repositories": [
     {
+      "name": "Introduction-to-Julia-for-programmers",
+      "description": "Twitter bot that continuously tweets a random picture with a random quote",
+      "languages": "Julia",
+      "category": "data",
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/Introduction-to-Julia-for-programmers"
+    },
+    
+    {
+      "name": "python-twitter-bot-retweet-like",
+      "description": "Twitter bot that likes and retweets all tweets that contain an specif word",
+      "languages": "Python",
+      "category": "data",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/python-twitter-bot-retweet-like"
+    },
+    
+    {
+      "name": "julia-exercism",
+      "description": "Solutions from the exercises availables at Julia Exercism",
+      "languages": "Julia",
+      "category": "data",
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/julia-exercism"
+    },
+
+    {
+      "name": "Julia-first-steps",
+      "description": "Scripts regarding the first steps to install and use Julia",
+      "languages": "Julia",
+      "category": "data",
+      "status": "done",
+      "url": "https://github.com/camilasbraz/Julia-first-steps"
+    },
+    
+    {
+      "name": "micro-livraria",
+      "description": "Practical microservices example",
+      "languages":  ["JavaScript", "HTML", "CSS", "Dockerfile"],
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/micro-livraria"
+    },
+    
+    {
+      "name": "python-automatic-bulk-emails",
+      "description": "How to use python and send automatic bulk emails",
+      "languages": "Python",
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/python-automatic-bulk-emails"
+    },
+
+    {
       "name": "python-twitter-bot-quote",
       "description": "Twitter bot that continuously tweets a random picture with a random quote",
       "languages": "Python",
@@ -112,7 +166,7 @@
     {
       "name": "roteiroRefactoringJS",
       "description": "practical refactoring exercises",
-      "languages": "HavaScript",
+      "languages": "JavaScript",
       "category": "tutorial",
       "status": "finished",
       "url": "https://github.com/camilasbraz/roteiroRefactoringJS"
