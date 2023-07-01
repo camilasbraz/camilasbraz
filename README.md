@@ -65,10 +65,28 @@
   "sorted by": "name",
   "repositories": [
     {
+      "name": "Handbook-of-Regression-Modeling-in-People-Analytics",
+      "description": "Book written by Keith McNulty in which he explains how to apply regression models in people analytics. ",
+      "languages": "Markdown",
+      "category": "books",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/Handbook-of-Regression-Modeling-in-People-Analytics"
+    },
+    
+    {
+      "name": "insights",
+      "description": "Texts and insights I wrote",
+      "languages": "Markdown",
+      "category": "writings",
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/insights"
+    },
+
+    {
       "name": "Introduction-to-Julia-for-programmers",
       "description": "Twitter bot that continuously tweets a random picture with a random quote",
       "languages": "Julia",
-      "category": "data",
+      "category": "courses",
       "status": "in progress",
       "url": "https://github.com/camilasbraz/Introduction-to-Julia-for-programmers"
     },
@@ -98,6 +116,15 @@
       "category": "data",
       "status": "done",
       "url": "https://github.com/camilasbraz/Julia-first-steps"
+    },
+
+    {
+      "name": "PWM-modulator-demodulator",
+      "description": "PWM schematics, including modulator and demodulator",
+      "languages": "ASC",
+      "category": "eletronic",
+      "status": "done",
+      "url": "https://github.com/camilasbraz/PWM-modulator-demodulator"
     },
     
     {
