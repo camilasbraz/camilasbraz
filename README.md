@@ -65,7 +65,34 @@
   "sorted by": "name",
   "repositories": [
     {
-      "name": "Handbook-of-Regression-Modeling-in-People-Analytics",
+      "name": "CS50",
+      "description": "Codes and notes regarding the CS50 course from Harvard",
+      "languages": "Markdown",
+      "category": "courses",
+      "status": "tbd",
+      "url": "https://github.com/camilasbraz/CS50"
+    },
+    
+    {
+      "name": "dash-python-and-big-query",
+      "description": "How to connect a table in Google Cloud Big Query to your dash app",
+      "languages": "Python",
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/dash-python-and-big-query"
+    },
+
+    {
+      "name": "demo-ci",
+      "description": "Practical continuous integration server example",
+      "languages": ["Java", "Makefile"],
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/demo-ci"
+    },
+
+    {
+      "name": "demo-cypress",
       "description": "Practical end-to-end testing and Cypress example",
       "languages": ["JavaScript", "HTML", "CSS", "Dockerfile"],
       "category": "tutorial",
