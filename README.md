@@ -84,7 +84,7 @@
 
     {
       "name": "greeting-robot-arduino",
-      "description": "Anarduino project that uses a ultrassonic sensor to trigger a servo and makes the robot wave back when you wave at it from a certain distance.",
+      "description": "Anarduino project that uses a ultrassonic sensor to trigger a servo and makes the robot wave back",
       "languages": "C++",
       "category": ["fun", "eletronic", "robotics"],
       "status": "finished",
