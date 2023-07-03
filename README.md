@@ -66,7 +66,34 @@
   "repositories": [
     {
       "name": "Handbook-of-Regression-Modeling-in-People-Analytics",
-      "description": "Book written by Keith McNulty in which he explains how to apply regression models in people analytics. ",
+      "description": "Practical end-to-end testing and Cypress example",
+      "languages": ["JavaScript", "HTML", "CSS", "Dockerfile"],
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/demo-cypress"
+    },
+    
+    {
+      "name": "esmforum",
+      "description": "Practical testing example",
+      "languages": ["JavaScript", "HTML", "EJS", "shell"],
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/esmforum"
+    },
+
+    {
+      "name": "greeting-robot-arduino",
+      "description": "Anarduino project that uses a ultrassonic sensor to trigger a servo and makes the robot wave back when you wave at it from a certain distance.",
+      "languages": "C++",
+      "category": ["fun", "eletronic", "robotics"],
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/greeting-robot-arduino"
+    },
+
+    {
+      "name": "Handbook-of-Regression-Modeling-in-People-Analytics",
+      "description": "Book written by Keith McNulty in which he explains how to apply regression models in people analytics.",
       "languages": "Markdown",
       "category": "books",
       "status": "finished",
