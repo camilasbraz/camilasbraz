@@ -65,6 +65,60 @@
   "sorted by": "name",
   "repositories": [
     {
+      "name": "books-articles-podcasts-videos",
+      "description": "Collection of books, articles, podcasts and videos that I find interesting",
+      "languages": "Markdown",
+      "category": "Studies",
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/books-articles-podcasts-videos"
+    },
+    
+    {
+      "name": "camilasbraz",
+      "description": "Special repository, its README.md appears on my public profile.",
+      "languages": ["Markdown", "JSON", "HTML", "CSS", "SVG"],
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/camilasbraz"
+    },
+
+    {
+      "name": "camilasbraz.github.io",
+      "description": "My personal website",
+      "languages": ["JavaScript", "CSS", "HTML"],
+      "category": "full-stack",
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/camilasbraz.github.io"
+    },
+
+    {
+      "name": "caronas-ufmg",
+      "description": "Carpool system for UFMG community",
+      "languages": ["JavaScript", "CSS", "HTML", "React", "Firebase"],
+      "category": "full-stack",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/caronas-ufmg"
+    },
+    
+    {
+      "name": "causal-inference-dag",
+      "description": "Studies regarding causal inference and the usage of the dag tool",
+      "languages": "Markdown",
+      "category": ["Courses", "Studies"],
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/causal-inference-dag"
+    },
+
+    {
+      "name": "channel-analysis-with-youtube-api",
+      "description": "Using the youtube API to analyze youtube channels",
+      "languages": ["Jupyter Notebook", "Python"],
+      "category": "data",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/channel-analysis-with-youtube-api"
+    },
+
+    {
       "name": "CS50",
       "description": "Codes and notes regarding the CS50 course from Harvard",
       "languages": "Markdown",
