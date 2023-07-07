@@ -64,6 +64,70 @@
   "username": "camilasbraz",
   "sorted by": "name",
   "repositories": [
+
+    {
+      "name": "100-days-js",
+      "description": "Repository with the codes, exercises, and notes from the course 100 Days of Code: JS",
+      "languages": "JavaScript",
+      "category": ["Studies", "Courses"],
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/100-days-js"
+    },
+
+    {
+      "name": "100-days-python",
+      "description": "Repository with the codes, exercises, and notes from the course 100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+      "languages":[ "Python", "PDF"],
+      "category": ["Studies", "Courses"],
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/100-days-python"
+    },
+    
+    {
+      "name": "adopted-dog-arduino",
+      "description": "Teaching my adopted dog how to play using arduino",
+      "languages": ["Markdown", "C++"],
+      "category": "fun",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/adopted-dog-arduino"
+    },
+
+    {
+      "name": "analise-bd-producao-poco",
+      "description": "Queries related relational algebra and natural language in a well data base",
+      "languages": ["Jupyter Notebook", "SQL", "PDF"],
+      "category": "data",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/analise-bd-producao-poco"
+    },
+
+    {
+      "name": "analise-bd-starwars",
+      "description": "Queries related relational algebra and natural language in a starwars data base",
+      "languages": ["Jupyter Notebook", "SQL", "PDF"],
+      "category": "data",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/analise-bd-starwars"
+    },
+    
+    {
+      "name": "causal-inference-dag",
+      "description": "Implementation and explanation of the birthday paradox in R, Python and Julia",
+      "languages": ["Markdown", "R", "Python", "Julia"],
+      "category": "data",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/BirthdayParadox"
+    },
+
+    {
+      "name": "https://github.com/camilasbraz/book-network-dash",
+      "description": "Dash that bulds a character network and analysis of a given book",
+      "languages": ["Python", "CSS", "HTML"],
+      "category": ["data", "dashboard"],
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/https://github.com/camilasbraz/book-network-dash"
+    },
+
     {
       "name": "books-articles-podcasts-videos",
       "description": "Collection of books, articles, podcasts and videos that I find interesting",
@@ -192,20 +256,11 @@
 
     {
       "name": "Introduction-to-Julia-for-programmers",
-      "description": "Twitter bot that continuously tweets a random picture with a random quote",
-      "languages": "Julia",
-      "category": "courses",
-      "status": "in progress",
-      "url": "https://github.com/camilasbraz/Introduction-to-Julia-for-programmers"
-    },
-    
-    {
-      "name": "python-twitter-bot-retweet-like",
-      "description": "Twitter bot that likes and retweets all tweets that contain an specif word",
-      "languages": "Python",
-      "category": "data",
+      "description": "Codes and notes regarding the Introduction to Julia for programmers course from Julia Academy",
+      "languages": ["Julia", "PDF", "Jupyter Notebook"],
+      "category": ["data", "courses"],
       "status": "finished",
-      "url": "https://github.com/camilasbraz/python-twitter-bot-retweet-like"
+      "url": "https://github.com/camilasbraz/Introduction-to-Julia-for-programmers"
     },
     
     {
@@ -227,14 +282,23 @@
     },
 
     {
-      "name": "PWM-modulator-demodulator",
-      "description": "PWM schematics, including modulator and demodulator",
-      "languages": "ASC",
-      "category": "eletronic",
-      "status": "done",
-      "url": "https://github.com/camilasbraz/PWM-modulator-demodulator"
+      "name": "julia-for-data-science",
+      "description": "Codes and notes regarding the Julia for data science course from Julia Academy",
+      "languages": "Julia",
+      "category": ["data", "courses"],
+      "status": "in progress",
+      "url": "https://github.com/camilasbraz/julia-for-data-science"
     },
-    
+
+    {
+      "name": "learning-react",
+      "description": "First steps with React",
+      "languages":  "Markdown",
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/learning-react"
+    },
+
     {
       "name": "micro-livraria",
       "description": "Practical microservices example",
@@ -242,6 +306,15 @@
       "category": "tutorial",
       "status": "finished",
       "url": "https://github.com/camilasbraz/micro-livraria"
+    },
+
+    {
+      "name": "PWM-modulator-demodulator",
+      "description": "PWM schematics, including modulator and demodulator",
+      "languages": "ASC",
+      "category": "eletronic",
+      "status": "done",
+      "url": "https://github.com/camilasbraz/PWM-modulator-demodulator"
     },
     
     {
@@ -345,9 +418,9 @@
     {
       "name": "the-hunger-games-network",
       "description": "Web scrap and NLP to create a network of The Hunger Games books",
-      "languages": "Python",
+      "languages": ["Python", "Jupyter Notebook", "HTML", "CSV", "PDF"],
       "category": "data",
-      "status": "tbd",
+      "status": "finished",
       "url": "https://github.com/camilasbraz/the-hunger-games-network"
     },
     
