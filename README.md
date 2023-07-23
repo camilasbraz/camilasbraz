@@ -3,7 +3,7 @@
 
 <div align="center" style="display: inline_block">
   
-![Snake animation](https://github.com/camilasbraz/camilasbraz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/camilasbraz/camilasbraz/blob/output/github-snake-dark.svg)
 
 
 
