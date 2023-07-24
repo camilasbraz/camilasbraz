@@ -36,6 +36,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/> </a>
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
 
 ## Data Projects
 [![](https://img.shields.io/badge/-🎵%20Spotify%20Wrapped%20Generator-000)](https://github.com/camilasbraz/spotify-wrapped-generator)
