@@ -38,11 +38,8 @@ jobs:
   
 
       - uses: lowlighter/metrics@latest
-        id: achievments-gif
         with:
-          outputs: |
-              dist/metrics.plugin.achievements.compact.gif
-              dist/metrics.plugin.achievements.compact.svg
+          filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
