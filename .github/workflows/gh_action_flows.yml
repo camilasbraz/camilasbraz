@@ -39,7 +39,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          filename: dist/github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
