@@ -112,18 +112,18 @@
       "status": "finished",
       "url": "https://github.com/camilasbraz/analise-bd-starwars"
     },
-    
+ 
     {
-      "name": "causal-inference-dag",
-      "description": "Implementation and explanation of the birthday paradox in R, Python and Julia",
-      "languages": ["Markdown", "R", "Python", "Julia"],
-      "category": "data",
+      "name": "BirthdayParadox",
+      "description": "Solution of the birthday paradox in python, R and julia",
+      "languages": ["Python", "R", "Julia"],
+      "category": ["data", "statistics"],
       "status": "finished",
       "url": "https://github.com/camilasbraz/BirthdayParadox"
     },
 
     {
-      "name": "https://github.com/camilasbraz/book-network-dash",
+      "name": "book-network-dash",
       "description": "Dash that bulds a character network and analysis of a given book",
       "languages": ["Python", "CSS", "HTML"],
       "category": ["data", "dashboard"],
@@ -312,6 +312,15 @@
     },
 
     {
+      "name": "nlp-music",
+      "description": "How to use nlp to analyze song lyrics",
+      "languages":  ["Python", "Jupyter Notebook"],
+      "category": ["data", "nlp"],
+      "status": "tbd",
+      "url": "https://github.com/camilasbraz/nlp-music"
+    },
+
+    {
       "name": "PWM-modulator-demodulator",
       "description": "PWM schematics, including modulator and demodulator",
       "languages": "ASC",
@@ -327,6 +336,15 @@
       "category": "tutorial",
       "status": "finished",
       "url": "https://github.com/camilasbraz/python-automatic-bulk-emails"
+    },
+
+    {
+      "name": "python-sql",
+      "description": "Step-by-step instructions on how to connect Python and SQL",
+      "languages": ["Python", "Jupyter Notebook"],
+      "category": "tutorial",
+      "status": "finished",
+      "url": "https://github.com/camilasbraz/python-sql"
     },
 
     {
