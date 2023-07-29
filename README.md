@@ -488,7 +488,7 @@
 
 ## Achievments
 
-![Achievment metrics](https://github.com/camilasbraz/camilasbraz/blob/main/github-metrics.svg)
+![Achievment metrics](https://github.com/camilasbraz/camilasbraz/blob/output/github-metrics.svg)
 
 <!---- 👋 Hi, I’m @camilasbraz
 https://zzetao.github.io/awesome-github-profile/
