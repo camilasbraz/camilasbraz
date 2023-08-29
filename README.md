@@ -45,10 +45,12 @@
 [![](https://img.shields.io/badge/-🚀%20Starwars%20DB%20Analysis-000)](https://github.com/camilasbraz/analise-bd-starwars)
 [![](https://img.shields.io/badge/-🪣%20Wells%20DB%20Analysis-000)](https://github.com/camilasbraz/analise-bd-producao-poco)
 [![](https://img.shields.io/badge/-🦣%20Python%20and%20SQL%20connection-000)](https://github.com/camilasbraz/python-sql)
+[![](https://img.shields.io/badge/-🍲%20Recipes%20app-000)](https://github.com/camilasbraz/recipes-app)
 
 ## Full Stack Projects
 [![](https://img.shields.io/badge/-🚗%20Caronas%20UFMG-000)](https://github.com/camilasbraz/caronas-ufmg)
 [![](https://img.shields.io/badge/-👾%20Github.io-000)](camilasbraz.github.io)
+[![](https://img.shields.io/badge/-🍲%20Recipes%20app-000)](https://github.com/camilasbraz/recipes-app)
 
 ## Fun Projects
 [![Virtual memory simulator](https://img.shields.io/badge/-🧠%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/virtual-memory-simulator)
