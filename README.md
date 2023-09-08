@@ -46,6 +46,7 @@
 [![](https://img.shields.io/badge/-🪣%20Wells%20DB%20Analysis-000)](https://github.com/camilasbraz/analise-bd-producao-poco)
 [![](https://img.shields.io/badge/-🦣%20Python%20and%20SQL%20connection-000)](https://github.com/camilasbraz/python-sql)
 [![](https://img.shields.io/badge/-🍲%20Recipes%20app-000)](https://github.com/camilasbraz/recipes-app)
+[![](https://img.shields.io/badge/-📊%20automated%20EDA-000)]([https://github.com/camilasbraz/recipes-app](https://github.com/camilasbraz/streamlit-exploratory-analysis))
 
 ## Full Stack Projects
 [![](https://img.shields.io/badge/-🚗%20Caronas%20UFMG-000)](https://github.com/camilasbraz/caronas-ufmg)
