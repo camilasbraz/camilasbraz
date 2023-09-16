@@ -47,17 +47,20 @@
 [![](https://img.shields.io/badge/-🦣%20Python%20and%20SQL%20connection-000)](https://github.com/camilasbraz/python-sql)
 [![](https://img.shields.io/badge/-🍲%20Recipes%20app-000)](https://github.com/camilasbraz/recipes-app)
 [![](https://img.shields.io/badge/-📊%20Automated%20EDA-000)]([https://github.com/camilasbraz/recipes-app](https://github.com/camilasbraz/streamlit-exploratory-analysis))
+[![](https://img.shields.io/badge/-☣️%20Survival%20Analysis-000)](https://github.com/camilasbraz/recipes-app)
 
 ## Full Stack Projects
 [![](https://img.shields.io/badge/-🚗%20Caronas%20UFMG-000)](https://github.com/camilasbraz/caronas-ufmg)
 [![](https://img.shields.io/badge/-👾%20Github.io-000)](camilasbraz.github.io)
-[![](https://img.shields.io/badge/-🍲%20Recipes%20app-000)](https://github.com/camilasbraz/recipes-app)
+[![](https://img.shields.io/badge/-🍲%20Recipes%20app-000)](https://github.com/camilasbraz/https://github.com/camilasbraz/survival-analysis)
 
 ## Fun Projects
 [![Virtual memory simulator](https://img.shields.io/badge/-🧠%20Virtual%20Memory%20Simulator-000)](https://github.com/camilasbraz/virtual-memory-simulator)
 [![Virtual memory simulator](https://img.shields.io/badge/-🤖%20Greeting%20Robot%20Arduino-000)](https://github.com/camilasbraz/greeting-robot-arduino)
 [![Virtual memory simulator](https://img.shields.io/badge/-🐦%20Twitter%20BOT-000)](https://github.com/camilasbraz/python-twitter-bot-retweet-like)
 [![Virtual memory simulator](https://img.shields.io/badge/-🐕%20Dog%20Toy%20Arduino-000)](https://github.com/camilasbraz/adopted-dog-arduino)
+[![Virtual memory simulator](https://img.shields.io/badge/-🖳%20COOL%20Compiler-000)](https://github.com/camilasbraz/cool-compiler)
+[![Virtual memory simulator](https://img.shields.io/badge/-📦%20Travelling%20Salesman%20Problem-000)](https://github.com/camilasbraz/traveling-salesman-problem-GA)
 
 ## Navigation: how my github is organised
 <details>
