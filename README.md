@@ -48,6 +48,7 @@
 [![](https://img.shields.io/badge/-🍲%20Recipes%20app-000)](https://github.com/camilasbraz/recipes-app)
 [![](https://img.shields.io/badge/-📊%20Automated%20EDA-000)]([https://github.com/camilasbraz/recipes-app](https://github.com/camilasbraz/streamlit-exploratory-analysis))
 [![](https://img.shields.io/badge/-☣️%20Survival%20Analysis-000)](https://github.com/camilasbraz/recipes-app)
+[![](https://img.shields.io/badge/-🦖%20Datasaurus-000)](https://github.com/camilasbraz/datasaurus)
 
 ## Full Stack Projects
 [![](https://img.shields.io/badge/-🚗%20Caronas%20UFMG-000)](https://github.com/camilasbraz/caronas-ufmg)
